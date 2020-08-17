@@ -1,0 +1,12 @@
+---
+:id: 31836022
+:submitters:
+- :name: Willis Tan
+  :email: wit004@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-12 04:16:12.843871000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-11 21:16:12.843871000 Z
+:status: processed
+:score: 100.0
